@@ -1,0 +1,15 @@
+﻿  01-triangles.cpp
+01-triangles.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，该符号在函数 _main 中被引用
+01-triangles.obj : error LNK2019: 无法解析的外部符号 _LoadShaders，该符号在函数 "void __cdecl init(void)" (?init@@YAXXZ) 中被引用
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindBuffer
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewEnableVertexAttribArray
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewUseProgram
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewVertexAttribPointer
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewClearBufferfv
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewBufferStorage
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewCreateBuffers
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindVertexArray
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenVertexArrays
+C:\Program Files\openCV\opencv\build\x64\vc14\lib\opencv_world342.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Program Files\openCV\opencv\build\x64\vc14\lib\opencv_world342d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+D:\VS Projects\shaderProg\Debug\01-triangles.exe : fatal error LNK1120: 11 个无法解析的外部命令

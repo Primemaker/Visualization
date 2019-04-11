@@ -1,0 +1,19 @@
+﻿  01-triangles.cpp
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewEnableVertexAttribArray
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindVertexArray
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewUseProgram
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewVertexAttribPointer
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glutCreateWindowWithExit@8
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glutInitWithExit@12
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindBuffer
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewCreateBuffers
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewClearBufferfv
+01-triangles.obj : error LNK2001: 无法解析的外部符号 _LoadShaders
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitDisplayMode@4
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenVertexArrays
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp__glutDisplayFunc@4
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp____glewBufferStorage
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp__glutMainLoop@0
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitWindowSize@8
+01-triangles.obj : error LNK2001: 无法解析的外部符号 __imp__glewInit@0
+D:\VS Projects\shaderProg\Release\01-triangles.exe : fatal error LNK1120: 17 个无法解析的外部命令
